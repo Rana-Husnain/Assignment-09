@@ -1,0 +1,27 @@
+.joinContainer {
+        background-color: #858584;
+        border-radius: 25px;
+        margin-top: 15px;
+        padding: 40px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+}
+
+.inputfeild {
+        padding: 5px;
+        background-color: #ffffff;
+        color: #000000;
+        border: none;
+        outline: none;
+        border-radius: 10px;
+}
+
+.inputBtn {
+        margin-top: 20px;
+}
+
+.subBtn {
+        margin-left: -15px;
+}

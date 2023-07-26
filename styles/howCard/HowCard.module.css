@@ -1,0 +1,9 @@
+.maindiv {
+    width: 100%;
+    height: 400px;
+    background-color: #858584;
+    border-radius: 25px;
+    margin-top: 15px;
+    text-align: center;
+    padding: 20px;
+}

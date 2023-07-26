@@ -1,0 +1,32 @@
+.footerRow {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+
+.imageHeading {
+    display: flex;
+    align-items: center;
+}
+
+.inputfeild {
+    padding: 5px;
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+.inputBtn {
+    margin-top: 20px;
+}
+
+.subBtn {
+    margin-left: -15px;
+}
+
+.footerTextColor {
+    color: #CCC;
+    font-size: 16px;
+}
